@@ -3,11 +3,19 @@
 <!--
 **JinkiJung/jinkijung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 A Korean alien living in Denmark. 😊 🚴‍
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinkijung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jinkijung) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 ## Skill proficiency
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,3 +29,4 @@ A Korean alien living in Denmark. 😊 🚴‍
 ![jquery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![unity](https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+
