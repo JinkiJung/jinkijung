@@ -1,4 +1,4 @@
-### A Korean badge collector living in Denmark. 😊 🚴‍
+### A serious face appeared in Denmark. 😊 🚴‍
 
 <!--
 **JinkiJung/jinkijung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
