@@ -1,4 +1,4 @@
-### A serious face appeared in Denmark. 😊 🚴‍
+### Wanting to learn everything from the world 😊 🚴‍
 
 <!--
 **JinkiJung/jinkijung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
