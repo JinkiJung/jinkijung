@@ -1,4 +1,6 @@
-### Wanting to learn everything from the world 😊 🚴‍
+### Hi! Great to have you. I am Jinki Jung. 
+
+There is a tiny cute webpage introducing me vertically: [jinkijung.github.io](http://jinkijung.github.io/)
 
 <!--
 **JinkiJung/jinkijung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
