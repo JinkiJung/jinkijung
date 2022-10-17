@@ -1,4 +1,6 @@
-### Hi! I am Jinki Jung.
+### Hi! I am Jinki Jung, a senior SW developer of [Digital Maritime Consultancy ApS](https://dmc.international/) working on an international open-source project [Maritime Connectivity Platform](https://maritimeconnectivity.net/).
+
+I am also a big fan of history, culture, walking, building Lego and open source.
 
 There is a webpage introducing me vertically: [jinkijung.github.io](http://jinkijung.github.io/)
 
