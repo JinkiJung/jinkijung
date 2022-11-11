@@ -1,6 +1,15 @@
-### Hi! I am Jinki Jung, a senior SW developer of [Digital Maritime Consultancy ApS](https://dmc.international/) working on an international open-source project [Maritime Connectivity Platform](https://maritimeconnectivity.net/).
+### Introduction
 
-I am also a big fan of history, culture, walking, building Lego and open source.
+Hi, I am Jinki Jung, a programmer who has a passionate interest in open source projects.
+
+I love to make tools. Useful ones. Programming and frameworks helps me a lot to build something like that.
+
+I also like to jump into new environments, including new frameworks, enjoy to absorb many things, get confused, and build my understanding of it.
+
+Those two aspects of mine become a basis of my passion to open source world.
+
+I am from South Korea, based in Copenhagen, a father of two kids, a big fan of history and culture, an amature content maker.
+
 
 There is a webpage introducing me vertically: [jinkijung.github.io](http://jinkijung.github.io/)
 
@@ -38,3 +47,5 @@ Here are some ideas to get you started:
 ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
