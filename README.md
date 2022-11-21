@@ -2,11 +2,7 @@
 
 Hi, I am Jinki Jung, a programmer who has a passionate interest in open source projects.
 
-I love to make tools. Useful ones. Programming and frameworks helps me a lot to build something like that.
-
-I also like to jump into new environments, including new frameworks, enjoy to absorb many things, get confused, and build my understanding of it.
-
-Those two aspects of mine become a basis of my passion to open source world.
+I love to make tools. Useful ones. Programming and frameworks helps me a lot to build something like that. I also like to jump into new environments, including new frameworks, enjoy to absorb many things, get confused, and build my understanding of it. Those two aspects of mine become a basis of my passion to open source world!
 
 I am from South Korea, based in Copenhagen, a father of two kids, a big fan of history and culture, an amature content maker.
 
