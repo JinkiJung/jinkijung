@@ -1,13 +1,17 @@
 ### Introduction
 
-Hi, I am Jinki Jung, a programmer who has passionate interests in open source projects.
+Hi, I am Jinki Jung, a programmer who has a passionate interest in open source projects.
 
-I love to make tools. Programming and frameworks helps me a lot to build something like that. I also like to jump into new environments, including new frameworks, enjoy to absorb many things, get confused, and build my understanding of it.
+I love to make tools that help others and make life better such as [MCP](https://maritimeconnectivity.net/).
 
-I am from South Korea, based in Copenhagen, a father of two kids, a big fan of history and culture, an amature content maker.
+I also like to jump into new environments - absorbing many things, getting confused, and building something based on my understanding of it.
+
+I am from South Korea, based in Copenhagen, a father of two kids.
 
 
-There is a webpage introducing me vertically: [jinkijung.github.io](http://jinkijung.github.io/)
+- Personal webpage: [jinkijung.github.io](https://jinkijung.github.io/)
+- Personal blog (in Korean): [jinkijung.tistory.com](https://jinkijung.tistory.com/)
+
 
 <!--
 **JinkiJung/jinkijung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
